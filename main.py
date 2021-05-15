@@ -15,7 +15,7 @@ from datetime import datetime
 # input_path is the path for the json file
 input_path = Path('your_path.json')  # Replace the string 'your_path' by yours
 # output_path is the path where will be saved the csv file
-output_path = Path('your_path.csv') # Replace the string 'your_path' by yours
+output_path = Path('your_path.csv')  # Replace the string 'your_path' by yours
 with open(input_path, encoding='utf-8') as json_file:
     data = json.load(json_file)
 
