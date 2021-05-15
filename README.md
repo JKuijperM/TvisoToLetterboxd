@@ -1,2 +1,2 @@
 # TvisoToLetterboxd
-Script that converts a json file generated from TVISO to CSV can be read by Letterboxd for exporting the list of films
+Python script that converts an exported json file from the web TVISO to a csv file can be read by the web Letterboxd.
